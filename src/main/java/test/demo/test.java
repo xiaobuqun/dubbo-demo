@@ -10,6 +10,6 @@ package test.demo;
 public class test {
     void test(){
         System.out.println(111);
-        System.out.println(2);
+        System.out.println(222111);
     }
 }
